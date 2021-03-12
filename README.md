@@ -40,7 +40,9 @@ The project open window in your browser 'http://localhost:3000'
 
 ## Using search bar
 
-You need to fill in the field with username / repository-name
+You need to fill in the field with username/repository-name, as in the example:
+
+:[Help use search bar]()
 
 ## Authors
 

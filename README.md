@@ -42,7 +42,7 @@ The project open window in your browser 'http://localhost:3000'
 
 You need to fill in the field with username/repository-name, as in the example:
 
-:[Help use search bar]()
+![](https://github.com/LittigDev/frontend-github-explorer-gostack/blob/master/public/assets/print-help-use-searchbar.png)
 
 ## Authors
 
